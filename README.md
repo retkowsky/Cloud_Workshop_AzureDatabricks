@@ -9,6 +9,6 @@ Documentation : <br>
 https://docs.azuredatabricks.net/
 <br>
 <br>
-V1.0
+V1.1 - 26 mars 2019
 <br>
-26 mars 2019
+Serge Retkowsky - serge.retkowsky@microsoft.com
