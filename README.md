@@ -1,7 +1,5 @@
 # Cloud Workshop Azure Databricks
 
-<img src="https://www.youtube.com/watch?v=Lcwft9tmurg">
-
 <iframe width="420" height="315"
 src="https://www.youtube.com/watch?v=Lcwft9tmurg?autoplay=1">
 </iframe>
