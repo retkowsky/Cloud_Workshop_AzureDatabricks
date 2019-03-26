@@ -1,6 +1,8 @@
 # Cloud Workshop Azure Databricks
+<img src="https://www.bing.com/th?id=OIP.yPVwcx4Ly9R8hduNARirzQHaEO&pid=Api&rs=1&p=0">
 
 Cloud Workshop Azure Databricks
+<br>
 https://azure.microsoft.com/fr-fr/services/databricks/
 
 
