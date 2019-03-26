@@ -2,7 +2,6 @@
 
 https://www.youtube.com/watch?v=Lcwft9tmurg
 
-Cloud Workshop Azure Databricks
 <br><br>
 More information about Azure Databricks : <br>
 https://azure.microsoft.com/fr-fr/services/databricks/
