@@ -4,6 +4,8 @@
 More information about Azure Databricks : <br>
 https://azure.microsoft.com/fr-fr/services/databricks/
 <br>
+Documentation : <br>
+https://docs.azuredatabricks.net/
 <br>
 V1.0
 <br>
