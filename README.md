@@ -11,4 +11,4 @@ https://docs.azuredatabricks.net/
 <br>
 V1.3 - 13 Juin 2019
 <br>
-Serge Retkowsky - serge.retkowsky@microsoft.com
+Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
