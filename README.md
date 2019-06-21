@@ -9,6 +9,14 @@ Documentation : <br>
 https://docs.azuredatabricks.net/
 <br>
 <br>
+Datasets :
+https://github.com/retkowsky/Cloud_Workshop_AzureDatabricks/tree/master/Donn%C3%A9es
+Notebooks :
+https://github.com/retkowsky/Cloud_Workshop_AzureDatabricks/tree/master/Notebooks
+Présentations PowerPoint :
+https://github.com/retkowsky/Cloud_Workshop_AzureDatabricks/tree/master/Pr%C3%A9sentations
+<br>
+
 V1.3 - 13 Juin 2019
 <br>
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
