@@ -1,6 +1,6 @@
 # Cloud Workshop Azure Databricks
 
-<br>
+<img src="https://raw.githubusercontent.com/retkowsky/images/master/Banni%C3%A8re%20Azure%20Databricks.jpg">
 More information about Azure Databricks : <br>
 https://azure.microsoft.com/fr-fr/services/databricks/
 <br>
